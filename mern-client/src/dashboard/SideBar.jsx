@@ -66,7 +66,7 @@ const SideBar = () => {
             </p>
           </Sidebar.Item>
           <Sidebar.Item
-            href="logout"
+            href="/logout"
             icon={HiTable}
           >
             <p>
