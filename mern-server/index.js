@@ -4,6 +4,7 @@ const PORT=process.env.PORT||5000;
 const cors=require('cors');
 const mongoose=require('mongoose')
 
+
 //middlewares 
 app.use(cors());
 app.use(express.json())
